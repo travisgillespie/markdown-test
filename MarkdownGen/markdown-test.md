@@ -1,6 +1,6 @@
 # Setting Up Git Submodules
 
-The [Pixel Vision 8 Runner] (https://gitlab.com/PixelVision8/UnityRunner) project contains a [Demo project] (https://gitlab.com/PixelVision8/Demos)  with examples of how to use the [Pixel Vision 8 SDK] (https://gitlab.com/PixelVision8/SDK) APIs. Each demo highlights a specific aspect of the engine and shows off use cases for drawing sprites, capturing input, working with tilemaps and more. To use this project, you will first need to check out the repo and reconnect the [git submodules] (https://git-scm.com/book/en/v2/Git-Tools-Submodules). 
+The [Pixel Vision 8 Runner](https://gitlab.com/PixelVision8/UnityRunner) project contains a [Demo project](https://gitlab.com/PixelVision8/Demos)  with examples of how to use the [Pixel Vision 8 SDK](https://gitlab.com/PixelVision8/SDK) APIs. Each demo highlights a specific aspect of the engine and shows off use cases for drawing sprites, capturing input, working with tilemaps and more. To use this project, you will first need to check out the repo and reconnect the [git submodules](https://git-scm.com/book/en/v2/Git-Tools-Submodules). 
 
 ## Checking Out the Project
 
